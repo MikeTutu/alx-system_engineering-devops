@@ -1,0 +1,1 @@
+This directory contains a bash file that prints the absolute path name of the current working directory

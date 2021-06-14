@@ -1,1 +1,1 @@
-This directory holds scripts about __REDIRECTIONS__
+This directory holds scripts about __REDIRECTIONS__.

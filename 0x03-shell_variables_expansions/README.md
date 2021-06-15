@@ -1,0 +1,1 @@
+This directory holds scripts about __VARIABLES EXPANSIONS__
